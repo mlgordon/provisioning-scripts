@@ -1,0 +1,15 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="provisioning-scripts" audience="compute" href="/docs/infrastructure/provisioning-scripts/ps_index.html"}
+Provisioning scripts
+
+    {: .navgroup id="learn"}
+    ps_index.md
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    add-provisioning-script.md
+    {: .navgroup-end}
+
+
